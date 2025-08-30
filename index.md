@@ -1,123 +1,22 @@
----
-layout: default
----
+## About Me
+<div align="justify">
+I am a research scientist at TU Dortmund University, working on AI applications in healthcare with a focus on large language models and physiological and behavioral wearable signals, such as actigraphy and accelerometer data, for the prediction of chronic diseases. My research interests include machine learning, deep learning, and, more recently, large language models. Prior to my current position, I gained around four years of professional experience as a Data Scientist and R&D Machine Learning Engineer, contributing to various AI applications in computer vision, speech, time series analysis, and beyond. I earned my M.Sc. in Computer Engineering with a specialization in AI and Robotics from the University of Tehran, and my B.Sc. in Mathematics and Applications with a minor in Computer Science from Shiraz University.
+</div>
+<br> <br>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Work Experiences
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- [**LLM Data Scientist, (Toronto - CA)**](https://genovoai.com/){:target="_blank" rel="noopener"} <br> (April 2024 - September 2024)  <br> <br>
+- [**Machine Learning Research Engineer, FieldStream (Stockholm - Sweden)**](https://www.fieldstream.ai//){:target="_blank" rel="noopener"} <br> (March 2022 - March 2024)  <br> <br>
+- [**Machine Learning R&D Engineer, Hara AI (Terhan - Iran)**](https://hara.ai/){:target="_blank" rel="noopener"} <br> (September 2020 - September 2021) <br> <br>
+- [**Machine Learning R&D Engineer, HiBrainy (Tehran -  Iran)**](https://presentid.com){:target="_blank" rel="noopener"} <br> (June 2019 - July 2020) <br> <br>
 
 
-### Definition lists can be used with HTML syntax.
+## Publications
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- **The impact of spatial frequency on hierarchical category representation in macaque temporal cortex.** <br> <u>Farhang, E.</u> et al. <br> Communications Biology 8, 801, 2025 <br> [paper](https://doi.org/10.1038/s42003-025-08230-5){:target="_blank" rel="noopener"} <br> 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+- **The Effect of Spatial Frequency on the Visual Category Representation in the Macaque Inferior Temporal Cortex** <br> <u>Farhang, E.</u> et al. <br> bioRxiv 2021.12.05.470960; <br> [paper](https://doi.org/10.1101/2021.12.05.470960){:target="_blank" rel="noopener"} <br> 
 
-```
-The final element.
-```
+- **Temporal dynamics of spatial frequency representation in IT Cortex**<br> <u>Farhang, E.</u> et al. <br> 8th Basic and Clinical Neuroscience Congress,Tehran, Iran <br> [poster](https://en.civilica.com/doc/976593/){:target="_blank" rel="noopener"} <br> 
+
