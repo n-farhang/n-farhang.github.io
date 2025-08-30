@@ -1,6 +1,13 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: "Navid (Esmaeil) Farhang"
+description: "PhD Student in AI and Digital Health"
+logo: /assets/img/navid.jpeg
+github: https://github.com/n-farhang
+linkedin: www.linkedin.com/in/esmaeilfarhang
+google: https://scholar.google.com/citations?user=8gzJsMwAAAAJ&hl=en
+google_analytics: G-6TEHDTD61C
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
