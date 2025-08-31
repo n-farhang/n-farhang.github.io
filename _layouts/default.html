@@ -13,7 +13,7 @@
     {% include head-custom.html %}
   </head>
   
-  <body>
+  <body class="dark-mode">
     <!-- Theme toggle button -->
     <button id="theme-toggle" class="theme-toggle">🌙</button>
     
@@ -61,13 +61,20 @@
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
       const body = document.body;
-
-      // Load saved theme
+    
+      // Set initial button text based on body class
+      toggleBtn.textContent = body.classList.contains('dark-mode') ? '☀️' : '🌙';
+    
+      // Override with saved theme if exists
       if (localStorage.getItem('theme') === 'dark') {
         body.classList.add('dark-mode');
         toggleBtn.textContent = '☀️';
+      } else if (localStorage.getItem('theme') === 'light') {
+        body.classList.remove('dark-mode');
+        toggleBtn.textContent = '🌙';
       }
-
+    
+      // Toggle button click
       toggleBtn.addEventListener('click', () => {
         body.classList.toggle('dark-mode');
         if (body.classList.contains('dark-mode')) {
@@ -79,7 +86,4 @@
         }
       });
     </script>
-
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
-</html>
+    
