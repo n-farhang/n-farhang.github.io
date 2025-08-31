@@ -7,3 +7,17 @@
 <!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
 
 <!-- end custom head snippets -->
+{% if site.enable_darkmode %}
+  <!-- Dark Mode -->
+  <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}"
+    media="none"
+    id="highlight_theme_dark"
+  >
+  <script>
+    initTheme();
+  </script>
+{% endif %}

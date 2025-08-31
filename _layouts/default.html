@@ -5,14 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
   </head>
+  
   <body>
+    <!-- Theme toggle button -->
+    <button id="theme-toggle" class="theme-toggle">🌙</button>
+    
     <div class="wrapper">
       <header>
         <h1 align="center"><a href="{{ "/" | absolute_url }}" align="center">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -28,9 +32,11 @@
         {% endif %}
 
         <p class="view" align="center" >
-        <a href="{{site.github}}" target="_blank"> <img src="assets/img/github.png" alt="GitHub" style="width:30px;height:30px;"/> </a>
-        <a href="{{site.linkedin}}" target="_blank"> <img src="assets/img/linkedin.png" alt="LinkedIn" style="width:30px;height:30px;"/> </a>
-		<a href="{{site.google}}" target="_blank"> <img src="assets/img/google.png" alt="Scholar" style="width:30px;height:30px;"/> </a>
+          <a href="{{site.github}}" target="_blank"> <img src="assets/img/github.svg" alt="GitHub" style="width:30px;height:30px;"/> </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="{{site.linkedin}}" target="_blank"> <img src="assets/img/linkedin.png" alt="LinkedIn" style="width:30px;height:30px;"/> </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="{{site.google}}" target="_blank"> <img src="assets/img/scholar.svg" alt="Scholar" style="width:30px;height:30px;"/> </a>
         </p>
 
         {% if site.show_downloads %}
@@ -42,9 +48,7 @@
         {% endif %}
       </header>
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
       <footer>
         {% if site.github.is_project_page %}
@@ -52,6 +56,30 @@
         {% endif %}
       </footer>
     </div>
+
+    <!-- JS must come AFTER the button exists -->
+    <script>
+      const toggleBtn = document.getElementById('theme-toggle');
+      const body = document.body;
+
+      // Load saved theme
+      if (localStorage.getItem('theme') === 'dark') {
+        body.classList.add('dark-mode');
+        toggleBtn.textContent = '☀️';
+      }
+
+      toggleBtn.addEventListener('click', () => {
+        body.classList.toggle('dark-mode');
+        if (body.classList.contains('dark-mode')) {
+          toggleBtn.textContent = '☀️';
+          localStorage.setItem('theme', 'dark');
+        } else {
+          toggleBtn.textContent = '🌙';
+          localStorage.setItem('theme', 'light');
+        }
+      });
+    </script>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
