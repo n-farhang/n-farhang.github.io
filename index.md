@@ -1,6 +1,6 @@
 ## About Me
 <div align="justify">
-I am a research scientist at TU Dortmund University, working on AI applications in healthcare. My focus is on large language models and physiological and behavioral wearable signals, such as actigraphy and accelerometer data, for predicting chronic diseases. My research interests include machine learning, deep learning,AI in healthcare, and large language models. I have accumulated approximately four years of experience as a Data Scientist and R&D Machine Learning Engineer, contributing to diverse AI applications, including computer vision, speech processing, and time series analysis. My educational background is in Applied Mathematics, Computer Science, and Artificial Intelligence.
+I am a research scientist at TU Dortmund University, working on AI applications in healthcare. My focus is on large language models and physiological and behavioral wearable signals, such as actigraphy and accelerometer data, for predicting chronic diseases. My research interests include machine learning, deep learning, AI in healthcare, and large language models. I have accumulated approximately four years of experience as a Data Scientist and R&D Machine Learning Engineer, contributing to diverse AI applications, including computer vision, speech processing, and time series analysis. My educational background is in Applied Mathematics, Computer Science, and Artificial Intelligence.
 </div>
 <br> <br>
 
