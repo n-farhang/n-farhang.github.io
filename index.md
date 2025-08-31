@@ -4,7 +4,7 @@ I am a research scientist at TU Dortmund University, working on AI applications 
 </div>
 <br> <br>
 
-## Work Experiences
+## Experiences
 
 - [**LLM Data Scientist, Genovoai**](https://genovoai.com/){:target="_blank" rel="noopener"} <br>Toronto - Canada &nbsp;&nbsp;&nbsp;&nbsp; (April 2024 - September 2024)  <br> <br>
 - [**Machine Learning Research Engineer, FieldStream**](https://www.fieldstream.ai//){:target="_blank" rel="noopener"} <br> Stockholm - Sweden &nbsp;&nbsp;&nbsp;&nbsp;(March 2022 - March 2024)  <br> <br>
