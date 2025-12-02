@@ -5,6 +5,7 @@ I am a research scientist at TU Dortmund University, working on AI applications 
 <br> <br>
 
 ## Experiences
+- [**Research Associate, Technical University Dortmund**](https://www.tu-dortmund.de/){:target="_blank" rel="noopener"} <br>NRW - Germany &nbsp;&nbsp;&nbsp;&nbsp; (October 2024 - now)  <br> <br>
 
 - [**LLM Data Scientist, Genovoai**](https://genovoai.com/){:target="_blank" rel="noopener"} <br>Toronto - Canada &nbsp;&nbsp;&nbsp;&nbsp; (April 2024 - September 2024)  <br> <br>
 - [**Machine Learning Research Engineer, FieldStream**](https://www.fieldstream.ai//){:target="_blank" rel="noopener"} <br> Stockholm - Sweden &nbsp;&nbsp;&nbsp;&nbsp;(March 2022 - March 2024)  <br> <br>
@@ -20,8 +21,6 @@ I am a research scientist at TU Dortmund University, working on AI applications 
 ## Publications
 
 - **The impact of spatial frequency on hierarchical category representation in macaque temporal cortex.** <br> <u>Farhang, E.</u> et al. <br> Communications Biology 8, 801, 2025 <br> [paper](https://doi.org/10.1038/s42003-025-08230-5){:target="_blank" rel="noopener"} <br> 
-
-- **The Effect of Spatial Frequency on the Visual Category Representation in the Macaque Inferior Temporal Cortex** <br> <u>Farhang, E.</u> et al. <br> bioRxiv 2021.12.05.470960; <br> [paper](https://doi.org/10.1101/2021.12.05.470960){:target="_blank" rel="noopener"} <br> 
 
 - **Temporal dynamics of spatial frequency representation in IT Cortex**<br> <u>Farhang, E.</u> et al. <br> 8th Basic and Clinical Neuroscience Congress,Tehran, Iran <br> [poster](https://en.civilica.com/doc/976593/){:target="_blank" rel="noopener"} <br> 
 
