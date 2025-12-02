@@ -5,12 +5,20 @@ I am a research scientist at TU Dortmund University, working on AI applications 
 <br> <br>
 
 ## Experiences
-- [**Research Associate, Technical University Dortmund**](https://www.tu-dortmund.de/){:target="_blank" rel="noopener"} <br>North Rhine-Westphalia - Germany &nbsp;&nbsp;&nbsp;&nbsp; (October 2024 - now)  <br> <br>
+- **Research Associate** <br> 
+[**Technical University Dortmund**](https://www.tu-dortmund.de/){:target="_blank" rel="noopener"} <br>North Rhine-Westphalia - Germany &nbsp;&nbsp;&nbsp;&nbsp; (October 2024 - now)  <br>
+<br>
 
-- [**LLM Data Scientist, Genovoai**](https://genovoai.com/){:target="_blank" rel="noopener"} <br>Toronto - Canada &nbsp;&nbsp;&nbsp;&nbsp; (April 2024 - September 2024)  <br> <br>
-- [**Machine Learning Research Engineer, FieldStream**](https://www.fieldstream.ai//){:target="_blank" rel="noopener"} <br> Stockholm - Sweden &nbsp;&nbsp;&nbsp;&nbsp;(March 2022 - March 2024)  <br> <br>
-- [**Machine Learning R&D Engineer, HaraAI**](https://hara.ai/){:target="_blank" rel="noopener"} <br> Terhan - Iran &nbsp;&nbsp;&nbsp;&nbsp; (September 2020 - September 2021) <br> <br>
-- [**Machine Learning R&D Engineer, HiBrainy**](https://presentid.com){:target="_blank" rel="noopener"} <br> Tehran -  Iran &nbsp;&nbsp;&nbsp;&nbsp; (June 2019 - July 2020) <br> <br>
+- **LLM Data Scientist**
+<br> [**Genovoai**](https://genovoai.com/){:target="_blank" rel="noopener"} <br>Toronto - Canada &nbsp;&nbsp;&nbsp;&nbsp; (April 2024 - September 2024)  <br> <br>
+- **Machine Learning R&D Engineer** <br>
+ [**FieldStream**](https://www.fieldstream.ai//){:target="_blank" rel="noopener"} <br> Stockholm - Sweden &nbsp;&nbsp;&nbsp;&nbsp;(March 2022 - March 2024)  <br> <br>
+
+- **Machine Learning R&D Engineer** <br>
+[**HaraAI**](https://hara.ai/){:target="_blank" rel="noopener"} <br> Terhan - Iran &nbsp;&nbsp;&nbsp;&nbsp; (September 2020 - September 2021) <br> <br>
+
+- **Machine Learning R&D Engineer** <br> 
+[**HiBrainy**](https://presentid.com){:target="_blank" rel="noopener"} <br> Tehran -  Iran &nbsp;&nbsp;&nbsp;&nbsp; (June 2019 - July 2020) <br> <br>
 
 ## Education
 
