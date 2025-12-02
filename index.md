@@ -5,7 +5,7 @@ I am a research scientist at TU Dortmund University, working on AI applications 
 <br> <br>
 
 ## Experiences
-- [**Research Associate, Technical University Dortmund**](https://www.tu-dortmund.de/){:target="_blank" rel="noopener"} <br>NRW - Germany &nbsp;&nbsp;&nbsp;&nbsp; (October 2024 - now)  <br> <br>
+- [**Research Associate, Technical University Dortmund**](https://www.tu-dortmund.de/){:target="_blank" rel="noopener"} <br>North Rhine-Westphalia - Germany &nbsp;&nbsp;&nbsp;&nbsp; (October 2024 - now)  <br> <br>
 
 - [**LLM Data Scientist, Genovoai**](https://genovoai.com/){:target="_blank" rel="noopener"} <br>Toronto - Canada &nbsp;&nbsp;&nbsp;&nbsp; (April 2024 - September 2024)  <br> <br>
 - [**Machine Learning Research Engineer, FieldStream**](https://www.fieldstream.ai//){:target="_blank" rel="noopener"} <br> Stockholm - Sweden &nbsp;&nbsp;&nbsp;&nbsp;(March 2022 - March 2024)  <br> <br>
